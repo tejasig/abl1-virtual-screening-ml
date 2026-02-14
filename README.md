@@ -71,7 +71,7 @@ The results suggest that fingerprint-based representations capture relevant stru
 abl1-inhibitor-discovery-pipeline/
 │
 ├── notebooks/
-│   abl1_screening_pipeline.ipynb
+│   abl1_ligand_screening_pipeline.ipynb
 │
 ├── README.md
 └── LICENSE
